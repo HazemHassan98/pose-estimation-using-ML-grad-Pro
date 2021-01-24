@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\datacollectioncode",
+    "\\datacollectioncode\\videowithtimestamp",
+    "\\datacollectioncode\\wifiwithtimestamp",
+    "\\dataprocessing"
+  ],
+  "SelectedNode": "\\dataprocessing\\demo_FPN_video_new.py",
+  "PreviewInSolutionExplorer": false
+}
